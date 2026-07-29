@@ -1,4 +1,4 @@
-<h1>JavaScript Fundamentals & Resilience</h1>
+<h1>Projetos JavaScript Fundamentals & Resilience</h1>
 
 <h2>O que foi abortado em cada projeto: Injeção de dependência, Programação Defensiva, Estruturas de Decisão</h2>
 
