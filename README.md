@@ -1,4 +1,4 @@
-# 🚀 Projetos Front-End com HTML5, CSS3 e JavaScript
+# 🚀 Projetos Front-End 
 
 Este repositório foi criado para centralizar pequenos projetos e laboratórios práticos de Front-End, com foco na aplicação de conceitos sólidos de lógica, padrões de projeto e arquitetura de software utilizando **JavaScript Vanilla**.
 
